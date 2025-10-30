@@ -1,0 +1,18 @@
+# Paths
+path_dir_data: "/home/bertan/repos/visual-grounding-3d-gae/data"
+path_dir_experiments: "/home/bertan/repos/visual-grounding-3d-gae/experiments"
+path_dir_weights: "/home/bertan/repos/visual-grounding-3d-gae/resources/weights"
+
+# System
+device: cuda
+num_workers: 4
+seed_rngs: 42
+
+# Logging
+level_logging_default: INFO
+
+# Visualization
+size_font: 9
+size_label_ticks_major: 9
+size_label_ticks_minor: 9
+alpha_grid: 0.4
